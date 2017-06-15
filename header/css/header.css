@@ -1,0 +1,162 @@
+/*Í·²¿*/
+.header {
+    background-color: #fff;
+}
+
+.header .topBar {
+    width: 1260px;
+    height: 55px;
+    line-height: 55px;
+    margin: 0 auto;
+}
+
+.header .topBar_logo {
+    width: 133px;
+    height: 44px;
+    padding-top: 5px;
+}
+
+.header .topBar_logo .link {
+    display: block;
+    width: 133px;
+    height: 44px;
+    background: url("../images/logo_b5525b7.png") no-repeat;
+    text-indent: -2000em;
+}
+.header .topBar_ad {
+    width: 420px;
+    height: 55px;
+    padding-left: 10px;
+}
+
+.header .topBar_ad_pic {
+    width: 420px;
+    height: 55px;
+    background: url("../images/58f84d7b5e60273b2a6275dfACXQuv8X.jpg") no-repeat;
+}
+
+.header .topBar_ad .adlink {
+    display: none;
+    width: 960px;
+    height: 250px;
+    top: 55px;
+    left: -143px;
+    background: url("../images/58f84d7b5e60273b2a6275e0xRs228au.jpg") no-repeat;
+}
+
+.header .topBar_right {
+    font-size: 12px;
+    width: 393px;
+    color: #333;
+}
+
+.header .topBar_right a {
+    color: #333;
+}
+.header .topBar_right .current_menu {
+    height: 55px;
+    background-image: url(../images/sbg.PNG);
+}
+.header .register, .header .recharge {
+    padding: 0 13px;
+}
+.header .gameMenu {
+    width: 115px;
+    padding:0 15px;
+    color: #bc2e2e;
+}
+.header .shortcut {
+    width: 100px;
+    height: 55px;
+    overflow: hidden;
+    right: 0;
+}
+.header .shortcut a {
+    display: block;
+    width: 100px;
+    height: 55px;
+    text-align: center;
+}
+.header .gameMenu .tri_down {
+    width: 0;
+    height: 0;
+    right: 25px;
+    top: 25px;
+    border: 5px solid #fff;
+    border-top: 5px solid #bc2e2e;
+}
+.header .game_list {
+    display: none;
+    width: 1260px;
+    font-size: 12px;
+    top: 55px;
+    right: -100px;
+    background-color: rgba(253,254,254,.7);
+}
+.header .game_list .client_end {
+    width: 247px;
+    height: 450px;
+    border-right: 1px solid #ececec;
+}
+.header .game_list .mobile_end {
+    width: 1012px;
+    height: 450px;
+}
+.header .client_end_top, .header .mobile_end_top {
+    height: 39px;
+    line-height: 39px;
+    padding-left: 20px;
+    background-color: rgba(253,254,254,.8);
+    color: #bc2e2e;
+    font-size: 14px;
+    font-weight: 700;
+}
+.header .client_end .one {
+    padding-left: 20px;
+}
+.header .mobile_end .two {
+    padding-left: 36px;
+    margin: 0;
+    width: 122px;
+    height: 411px;
+    border-right: 1px solid #ececec;
+}
+.header .mobile_end .three {
+    padding-left: 36px;
+    width: 654px;
+    height: 411px;
+    border-right: 1px solid #ececec;
+}
+.header .mobile_end .four {
+     padding-left: 20px;
+     padding-top: 10px;
+     width: 126px;
+     height: 411px;
+ }
+.header .game_list p {
+    height: 32px;
+    line-height: 32px;
+    color: #6a6a6a;
+    font-weight: 700;
+}
+.header .game_list a{
+    float: left;
+    height: 24px;
+    line-height: 24px;
+}
+.header .game_list a:hover {
+    color: #bc2e2e;
+}
+.header .client_end a {
+    width: 105px;
+}
+.header .mobile_end a {
+    width: 125px;
+}
+.header .mobile_end .four a {
+    width: 105px;
+}
+
+
+
+                                                                                                                                       /*</li>*/
